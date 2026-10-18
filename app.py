@@ -46,8 +46,8 @@ PROFILE = {
 TECH_STACK = ["Python", "Streamlit", "HTML/CSS", "MySQL", "PHP", "Laravel"]
 
 CONTACTS = [
-    {"icon": "💬", "label": "WhatsApp", "value": "0895331387177", "url": "https://wa.me/62895331387177"},
-    {"icon": "✉️", "label": "Email", "value": "brianbernardz12@gmail.com", "url": "mailto:brianbernardz12@gmail.com"},
+    {"icon": "💬", "label": "WhatsApp", "value": "081298292727", "url": "https://wa.me/6281298292727"},
+    {"icon": "✉️", "label": "Email", "value": "brianbernard11@gmail.com", "url": "mailto:brianbernard11@gmail.com"},
     {"icon": "🐙", "label": "GitHub", "value": "github.com/xcompany12", "url": "https://github.com/xcompany12"},
     {"icon": "📸", "label": "Instagram", "value": "@brianbrnard", "url": "https://instagram.com/brianbrnard"},
 ]
